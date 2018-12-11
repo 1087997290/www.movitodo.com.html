@@ -1,0 +1,36 @@
+*{padding: 0;
+	margin: 0;
+
+}
+
+head { width: 100%;
+	height: 50px;
+	box-shadow: 1px 1px 5px  #816e30;
+	position: fixed;
+
+}
+
+#Menu{
+width: 600px;
+padding-top: 18px;
+margin: auto;
+
+}
+#Menu ul a{
+color:  #d3c598;
+text-decoration: none;
+font: bold 15px verdana;
+padding: 08px 18px 08px 18px;
+
+}
+#Menu ul a:hover{
+color:    #464544  ;
+background:  #d2c6a0;
+
+}
+
+#main {
+background: fondo2.jpg text= #d6bf76;
+height:2000px;
+	
+}
